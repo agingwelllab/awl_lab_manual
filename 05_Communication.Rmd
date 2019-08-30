@@ -1,0 +1,60 @@
+# Communication
+
+Communication is critical. Whether you persue academia or industry, you will need to be able to communicate with others about your work. 
+
+## Communication within the lab
+
+### Lab Meetings  
+
+Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. All full-time staff and graduate students will be expected to attend (unless cleared with the Lab Director in advance).  
+
+During lab meetings, one or two presenters will be responsible for setting the agenda that day. The presenter/s will also be responsible for sharing any relevant materials (e.g. journal article) a couple of days in advance. If you're scheduled to present and need to cancel or postpone, please give the group 72 hours notice. __Everyone is expected to participate in lab meetings.__ That means reading relevant material beforehand and if you are easily distracted by your computer or phone, put it away.
+
+### Individual Meetings  
+
+All managers should have weekly meetings with their mentees, lasting between 15 minutes to an hour. For instance, as lab director, I will have weekly meetings with the lab manager, postdocs, staff scientists, and any students leading projects. Ideally, the agenda for these meetings should be set by the mentee; you should provide a quick overview of the progress you've made on your project and let your mentor know where you're stuck and/or need help. You can also use individual meetings to seek feedback about new project development or professional development
+
+### Asana  
+
+Asana is a project-management platform that we will use to track progress on various projects in the lab.  
+
+* Asana is basically an orgnaized to-do list. When adding a task, make sure to put a useful description, assign it to someone and set a tentative due date.  
+* Be realistic and flexible with due dates. Of course you should try to get things done in a timely manner, but sometimes, life happens and you have to adjust.  
+* If you're leading a project in the lab, please make sure that your project is listed on Asana. All project-related tasks should be under your project.  
+
+### Slack  
+
+Slack is a team-collaboration tool that we will use for communication.  
+
+* Try to avoid direct messages in Slack. Instead, find a home for your comment or question in an existing channel. This allowsyou to get answers and feedback from multiple people in the lab.  
+* When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate.  
+
+### Email
+
+When contacting me, please use Slack (or Asana) whenever possible. I will try to respond to emails, but please don't use it for anything urgent.
+
+Likewise, I will try to use Asana/Slack to communicate with you as much as possible. However, sometimes I will need to email you. __I expect you will read all email sent to you and respond (if a response is needed) within one business day.__ If you will not be checking email for more than a couple of days, please consider using a vacation message so that others know you are not available on email (this suggestion also applies to holidays). 
+
+The same guideline applies to me: if I don't respond within one business day, please feel free to follow up (but consider using Slack). If I am not available, I will put up a vacation message.
+
+### Calendars
+
+## Communication outside the lab
+
+### Phone
+
+* If the phone rings in the lab, answer it. Most calls will be from potential (or current) research participants, so it is important to be professional - e.g., "Aging Well Lab, this is [your name]. How may I help you?"
+
+* Lab policy is to check the voicemail daily and call back within one business day. 
+
+* Please see the lab wiki for specific on speaking to potential research participants.
+
+### Manuscripts
+### Conference Presentations
+#### Talks
+#### Posters
+### Open Science Framework
+
+We will use the Open Science Framework (OSF) for organizing and sharing materials related to our projects. This will include preregistrations, code (sourced from GitHub), posters, and preprints. When making your project page, please follow the guidelines on the main Project page (insert website here). 
+
+### GitHub
