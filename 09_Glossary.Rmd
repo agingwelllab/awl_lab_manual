@@ -1,0 +1,28 @@
+# Resources
+
+## Glossary
+
+__Individual Development Plan (IDP)__ - a tool to assist mentees in academic and career development. 
+
+__Institutional Review Board (IRB)__ - committees at US research institutions that review and approve research proposals to ensure they are ethical.
+
+
+__Version Control__ - a system that records changes to a file (or set of files) over time so that you can recall specific versions later.
+
+## Links
+
+__Open Science Framework (OSF)__ - a tool developed and maintained by the Center for Open Science for creating, organizing, developing, and sharing research projects - https://osf.io/
+
+__OpenNeuro__ - a repository for sharing neuroimaging data - https://openneuro.org/
+
+__StackOverflow__ - open community for troubleshooting any kind of code -  https://stackoverflow.com/
+
+__Neurostars__ - a listserve for neuroimaging questions - https://neurostars.org/
+
+__GitHub__ - a respository for code - https://github.com/
+
+__bioRxiv__ - a preprint server for biological sciences; we will post our more neuroscience-y work here - https://www.biorxiv.org/
+
+__PsyArXiv__ - a preprint server for psychological sciences; we will post our behavioral studies here - https://psyarxiv.com/
+
+__Peele Lab's Manuscript Checklist__ - a checklist of things to do before submitting a manuscript to ensure open access - https://github.com/jpeelle/paperchecklist

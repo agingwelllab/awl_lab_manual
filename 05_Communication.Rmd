@@ -1,20 +1,30 @@
 # Communication
 
-Communication is critical. Whether you persue academia or industry, you will need to be able to communicate with others about your work. 
+<center>
+![](images/communication.png)
+</center>
 
-## Communication within the lab
+Communication is critical. Whether you pursue academia or industry, you will need to be able to communicate with others about your work. We will likely have to go beyond memes in order to do this.
 
-### Lab Meetings  
+## Lab Meetings  
 
 Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. All full-time staff and graduate students will be expected to attend (unless cleared with the Lab Director in advance).  
 
 During lab meetings, one or two presenters will be responsible for setting the agenda that day. The presenter/s will also be responsible for sharing any relevant materials (e.g. journal article) a couple of days in advance. If you're scheduled to present and need to cancel or postpone, please give the group 72 hours notice. __Everyone is expected to participate in lab meetings.__ That means reading relevant material beforehand and if you are easily distracted by your computer or phone, put it away.
 
-### Individual Meetings  
+<center>
+![](images/labmeeting.gif)
+</center>
 
-All managers should have weekly meetings with their mentees, lasting between 15 minutes to an hour. For instance, as lab director, I will have weekly meetings with the lab manager, postdocs, staff scientists, and any students leading projects. Ideally, the agenda for these meetings should be set by the mentee; you should provide a quick overview of the progress you've made on your project and let your mentor know where you're stuck and/or need help. You can also use individual meetings to seek feedback about new project development or professional development
+## Individual Meetings  
 
-### Asana  
+All mentors should have weekly meetings with their mentees, lasting between 15 minutes to an hour. For instance, as lab director, I will have weekly meetings with the lab manager, postdocs, staff scientists, and any students leading projects. Ideally, the agenda for these meetings should be set by the mentee; you should provide a quick overview of the progress you've made on your project and let your mentor know where you're stuck and/or need help. You can also use individual meetings to seek feedback about new project development or professional development.
+
+<center>
+![](images/best_meeting.jpg)
+</center>
+
+## Asana  
 
 Asana is a project-management platform that we will use to track progress on various projects in the lab.  
 
@@ -22,24 +32,38 @@ Asana is a project-management platform that we will use to track progress on var
 * Be realistic and flexible with due dates. Of course you should try to get things done in a timely manner, but sometimes, life happens and you have to adjust.  
 * If you're leading a project in the lab, please make sure that your project is listed on Asana. All project-related tasks should be under your project.  
 
-### Slack  
+<center>
+![](images/asana.jpg)  
+</center>
+
+## Slack  
 
 Slack is a team-collaboration tool that we will use for communication.  
 
-* Try to avoid direct messages in Slack. Instead, find a home for your comment or question in an existing channel. This allowsyou to get answers and feedback from multiple people in the lab.  
+* Try to avoid direct messages in Slack. Instead, find a home for your comment or question in an existing channel. This allows you to get answers and feedback from multiple people in the lab.  
 * When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate.  
 
-### Email
+<center>
+![](images/slack.png)
+</center>
+
+## Email
 
 When contacting me, please use Slack (or Asana) whenever possible. I will try to respond to emails, but please don't use it for anything urgent.
+
+<center>
+![](images/email2.jpeg)
+</center>
 
 Likewise, I will try to use Asana/Slack to communicate with you as much as possible. However, sometimes I will need to email you. __I expect you will read all email sent to you and respond (if a response is needed) within one business day.__ If you will not be checking email for more than a couple of days, please consider using a vacation message so that others know you are not available on email (this suggestion also applies to holidays). 
 
 The same guideline applies to me: if I don't respond within one business day, please feel free to follow up (but consider using Slack). If I am not available, I will put up a vacation message.
 
+We do have a lab listserve. __Use this sparingly.__ To send a message to the listserve, email cvl.seamanlab@lists.utdallas.edu. If approved, the email will go out to the entire lab. 
+
 ### Calendars
 
-## Communication outside the lab
+TBD
 
 ### Phone
 
@@ -49,12 +73,7 @@ The same guideline applies to me: if I don't respond within one business day, pl
 
 * Please see the lab wiki for specific on speaking to potential research participants.
 
-### Manuscripts
-### Conference Presentations
-#### Talks
-#### Posters
-### Open Science Framework
+<center>
+![](images/phonecalls.jpg)  
+</center>
 
-We will use the Open Science Framework (OSF) for organizing and sharing materials related to our projects. This will include preregistrations, code (sourced from GitHub), posters, and preprints. When making your project page, please follow the guidelines on the main Project page (insert website here). 
-
-### GitHub

@@ -14,13 +14,21 @@ description: "This is the lab manual for the Aging Well Lab at UT Dallas. It is 
 
 # Introduction
 
-Welcome to the Aging Well Lab manual! This was created by the Lab Director, Kendra Seaman, to convey my vision for our lab and to communicate community expectations. This manual will be updated regularly as our lab grows and develops. If you have any comments or suggestions regarding the content of this manual, please share these with me. This is a living document, and will change over time as needs arise.  
+Welcome to the Aging Well Lab manual! This manual was created by the Lab Director, Kendra Seaman, to convey my vision for our lab and to communicate community expectations. This manual will be updated regularly as our lab grows and develops. If you have any comments or suggestions regarding the content of this manual, please share these with me. This is a living document and will change as needed.  
 
-This manual was inspired by other lab manuals, including [MemoLab Manual](https://github.com/memobc/memolab-manual), [Peele Lab Manual](http://jpeelle.net/peellelab_manual.pdf), and [Smith Lab Manual](https://github.com/DVSneuro/smithlab_manual/blob/master/SmithLab_manual.pdf).
+Since we are a brand-new lab, this manual was inspired by (and in some places directly copied from) other lab manuals, including [MemoLab Manual](https://github.com/memobc/memolab-manual), [Peele Lab Manual](http://jpeelle.net/peellelab_manual.pdf), and [Smith Lab Manual](https://github.com/DVSneuro/smithlab_manual/blob/master/SmithLab_manual.pdf). Thanks to everyone who has shared their resources!
 
 ## About the Lab
 
-Our research is dedicated to using basic and translational scientific research studies to promote health and wellbeing across adulthood. We use a variety of behavioral, modeling and neuroimaging techniques to better understand how the mind and the brain change as people get older.
+Our research is dedicated to using basic and translational scientific research  to promote health and wellbeing across adulthood. We use a variety of behavioral, modeling and neuroimaging techniques to better understand how the mind and the brain change as people get older.
+
+**Address:**  
+Aging Well Laboratory  
+Center for Vital Longevity  
+1600 Viceroy Drive, Suite 800  
+Dallas, TX 75235
+
+![](images/cvl.jpg)
 
 ## Lab Info
 

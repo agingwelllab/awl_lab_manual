@@ -8,16 +8,22 @@ We expect everyone to:
 * __Be supportive__ - We're all in this together!  
 * __Share your knowledge.__ Mentorship takes many forms, but frequently involves looking out for those who are more junior to us. If you've done something before, share your experience. We are a team and we should work together.
 * __Be engaged in the community.__  
-     * Attend and actively engage in lab and one-on-one meetings. Ask questions, make suggestions, etc. If you are easily distracted by technology, disconnect during lab meetings.  
-     * Attend talks in the CVL, BBS, and greater UTD community.  
-     * Be an positive representative and advocate for our lab and our lab's work in our larger research communities.  
+     * Attend and actively engage in lab and one-on-one meetings. Ask questions, make suggestions, etc. If you are easily distracted by technology, disconnect during meetings.  
+    * Attend talks in the CVL, BBS, and greater UTD community.  
+    * Be an positive representative and advocate for our lab and our lab's work in our larger research communities.  
+    
+<center>
+![](images/distractions.png)
+</center>  
+    
 * Be independent when possible, ask for help when necessary. Specifically, ask three, then me!  
-     * There are lots of great resources on the web you should consult - StackOverflow, NeuroStars, etc  
+     * There are lots of web resources you should consult - StackOverflow, NeuroStars, etc  
      * Use others in the lab (and in the CVL, BBS) and external collaborators.  
 * __Communicate honestly__, even when it's difficult.  
 * Do work we are proud of individually and as a group.  
     * Double check your work.  
     * Our lab has a commitment to open science. Be ready to share your work both within the lab and with outsides at the conclusion of a project.  
+
 * Work towards proficiency in Unix, BASH, R, and Python. 
 * Respect each other's strengths, weaknesses, differences, and beliefs.
      * Be patient with everyone (including the Lab Director). Most of us are learning new skills and are busier than we would like.
@@ -28,14 +34,15 @@ We expect everyone to:
 
 We're sharing a relatively small space, so please be thoughtful of others. Specifically:  
 
-* __Do not come into the lab if you are sick!__ It's better to keep everyone healthy. If you are sick, email your direct supervisor (see organization chart).  
+* __Do not come into the lab if you are sick!__ It's better to keep everyone healthy. If you are sick, email your mentor and the lab manager.  
+
+<center>
+![](images/sick.jpg)
+</center>
+
 * Keep the lab neat. 
      * Do not leave food, drinks, or crumbs in the lab.  
      * Items left unattended may be cleaned, reclaimed or recycled.  
-
-### University policies
-
-TBD
 
 ## Lab Director
 
@@ -56,11 +63,13 @@ As the lab director, you can expect me to:
 * Make the time to meet with you regularly, read and provide feedback on code, posters, manuscripts, and other data products.
 * Obsess over chosing the correct analyses, clear phrasing, and awesome data visualizations.
 
+<center>
+![](images/boss.jpg)
+</center>
+
 ## Employees
-__Add general employee expectations here.__
 
 Employee salaries follow the [UTD paygrade](https://www.utdallas.edu/hr/compensation/classified/). 
-
 
 ### Lab Manager 
 
@@ -68,10 +77,14 @@ The lab manager is the heart and soul of the lab. While other lab members (inclu
 
 In order to provide constency for the lab, I expect the lab manager to:  
 
-* maintain regularly scheduled hours (8:30am - 5pm with a 30 minute lunch) on weekdays (except for [UTD holidays](https://www.utdallas.edu/hr/news/holidays/)),  
+* maintain regularly scheduled hours on weekdays (except for [UTD holidays](https://www.utdallas.edu/hr/news/holidays/)),  
 * serve as a liason between the the CVL administrative staff and our lab,  
 * check the lab email and personal work email accounts daily and respond to all emails within two business days, and  
 * check the voicemail daily and arrange for return calls to be made within one business day.  
+
+<center>
+![](images/email.png)
+</center>
 
 The Lab Manager's primary responsibilities include:  
 
@@ -80,7 +93,6 @@ The Lab Manager's primary responsibilities include:
 * assisting with the design and implementation of behavioral, eye-tracking, and fMRI experiments,  
 * overseeing the recruitment and testing of study participants, and  
 * helping with preprocessing and analysis of experimental data.  
-
 
 ### Paid post-bacc Research Assistants 
 
@@ -96,11 +108,13 @@ I will expect postdocs and staff scientists to move towards being more PI-like, 
 
 Also, to have (or acquire) the technical and open science skills listed for PhD students below.
 
+<center>
+![](images/postdoc.gif)
+</center>
+
 Postdoc salaries generally follow [NIH guidelines](https://www.niaid.nih.gov/grants-contracts/salary-cap-and-stipend-levels-announced). 
 
 ## Students
-
-__Add expectations for students here.__
 
 ### PhD Students
 
@@ -108,6 +122,11 @@ I will expect graduate students to:
 
 * attend classes, colloquium, and relevant talks around campus,  
 * be __excited__ about the research questions they are asking, be __eager__ to find the answers, and __anxious__ to share their results with others,  
+
+<center>
+![](images/bestdata.jpeg)
+</center>
+
 * seek out and apply for fellowships and awards (including travel awards), and  
 * realize there are times for pulling all-nighters and times for smelling the roses.  
 
@@ -123,19 +142,36 @@ I will expect graduate students to move towards:
 * clearly communicating your results in written and verbal formats, and 
 * actively mentoring those working for them (undergraduate RAs), including completing an Individual Development Plan (IDP).
 
-The learning curve for these skills can be steep, but developing these skills is necessary for success in both cognitive neuroscience and data science. If these goals do not align with your own interests and goals, then my lab is probably not a good fit for you.
+<center>
+![](images/phdplan.jpg)
+</center>
 
-__Add UTD-specific info here.__
+The learning curve for these skills can be steep, but developing these skills is necessary for success in both cognitive neuroscience and data science. If these goals do not align with your own interests and goals, then my lab is probably not a good fit for you.
 
 ### Master's Students
 
-I will expect Master's students to move towards being more PhD student-like. In particular, by the end of their time in the lab, I expect students to:  
+I will expect Master's students to move towards being more PhD student-like. In particular, by the end of their time in the lab, I expect master's students to:  
+* complete an empirical study in the lab, and  
+* complete a poster and/or written manuscript of that study.  
 
-* complete an empirical study in the lab, and
-* complete a poster and/or written manuscript of that study.
+<center>
+![](images/researchcat.jpg)  
+</center>
 
 ### Undergraduate Students
 
 Undergraduate students will play a vital role in our lab. Students can be involved in the lab in a number of ways, including independent study projects, student works, and internships. Given that we have limited time and resources, unfortunately we cannot accept or keep all undergraduates who are interested in our lab. Based on the lab's needs, we will consider new undergraduates at the beginning of each term. Each new undergraduate must attend a manditory orientation session, journal club, and serve a probationary term (one semester) before advancing further in the lab. 
 
-I expect undergraduates to be utterly reliable and willing to help with whatever projects need it. At a bare minimum, reliabillity includes showing up on time, maintaining your hours on the lab calendar, and making sure all of your work is accurate (double-check everything). In most cases, undergraduates will be directly mentored by the lab manager for their first semester in the lab, and then move on to work directly with a research assistant or graduate student. 
+<center>
+![](images/RAmeme.jpg)
+</center>
+
+I expect undergraduates to:  
+
+* commit to work _at least_ 5 hours per week in the lab and maintaining those hours on the lab calendar, 
+* show up on time for meetings, lab hours, and testing,  
+* make sure all of your work is accurate (double-check everything), and 
+* be willing to help with whatever projects need it. 
+
+In most cases, undergraduates will be directly mentored by the lab manager for their first semester in the lab, and then move on to work directly with a research assistant or graduate student. 
+
