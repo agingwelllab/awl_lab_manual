@@ -52,11 +52,43 @@ This section is still in development.
 
 ### Storing active data sets
 
-### Data organization
-
 ### Archiving data
 
-### Data sharing
+### Data and code organization
+
+To facillitate collaborative work and data sharing, all projects will have a similar file structure. This will also make it easier resume work on a project after a break and facilitate recycling of code for other projects.
+
+```
+project 
+  |--- 0_get_data.R
+  |--- 1_preprocess_data.R
+  |--- 2_analyze_data.R
+  |--- 3_visualize_data.R
+  |--- README.txt
+  |--- data
+  |--- docs
+  |--- figs
+  |--- output
+  |--- src
+```
+
+This  structure is directly stolen from my new favorite blog post, [r best practices](https://kdestasio.github.io/post/r_best_practices/) for more details). We will adapt this format as needed for other programming languages.
+
+Code files are stored in the top level of the `project` directory and are named with leading numbers (e.g. `0_get_data.R`) that indicate the order that the scripts should be run in. Also stored in this top-level is a `README.txt` file that contains a description of the project and a brief summary for each folder/file in the project.
+
+`project` is the top-level folder and contains all the files for a project. This folder should be renamed for each unique project in a way that indicates what the project is about.
+
+`data` contains the _raw_ data files used in the project. These files __should not be altered__ and are ideally read-only. Each data file should have a corresponding data dictionary that also lives in this folder.
+
+`doc` contains any manuscripts or interm summaries producted with the project.
+
+`figs` contains any plots, images, tables or figures _created and saved by your code_. It should be possible to delete and regenerate this folder with the scripts in the project folder.
+
+`output` contains non-figure objects created by scripts. For instance, processed data or logs.
+
+`scr` contains scripts for small functions you want to `source()` in your scripts. 
+
+### Data and code sharing
 
 <center>
 ![](images/open_science.jpg)  
@@ -66,7 +98,11 @@ We will use the Open Science Framework (OSF) for organizing and sharing material
 
 ### GitHub
 
-This section is still in development. 
+We will use git and GitHub for version control. All projects in the lab will have a repository (aka "repo") on GitHub.
+
+To get started with Git/GitHub, I encourage you to read the [Coding Club's Intro to GitHub](https://ourcodingclub.github.io/2017/02/27/git.html). We will dedicate at least one lab meeting to a git/GitHub tutorial each year.
+
+Using GitHub not only allows us to keep track of and work collaboratively on projects, but it also makes it easy to share projects on OSF when they are complete. Because we will ultimately share our GitHub repos with the world, I am going to ask lab members to submit pull requests instead of pushing their changes directly to GitHub. In other words, don't be this cat: 
 
 <center>
 ![](images/github.png)
