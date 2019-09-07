@@ -98,9 +98,7 @@ We will use the Open Science Framework (OSF) for organizing and sharing material
 
 ### GitHub
 
-We will use git and GitHub for version control. All projects in the lab will have a repository (aka "repo") on GitHub.
-
-To get started with Git/GitHub, I encourage you to read the [Coding Club's Intro to GitHub](https://ourcodingclub.github.io/2017/02/27/git.html). We will dedicate at least one lab meeting to a git/GitHub tutorial each year.
+We will use git and GitHub for version control and collaboration. Thus, all projects in the lab will have a repository (aka "repo") on GitHub. To get started with Git/GitHub, I encourage you to read the [Coding Club's Intro to GitHub](https://ourcodingclub.github.io/2017/02/27/git.html). This is just the beginning; we will dedicate at least one lab meeting to a git/GitHub tutorial each year. There are also several GitHub tutorials linked on the lab website's resource page.
 
 Using GitHub not only allows us to keep track of and work collaboratively on projects, but it also makes it easy to share projects on OSF when they are complete. Because we will ultimately share our GitHub repos with the world, I am going to ask lab members to submit pull requests instead of pushing their changes directly to GitHub. In other words, don't be this cat: 
 
@@ -108,12 +106,15 @@ Using GitHub not only allows us to keep track of and work collaboratively on pro
 ![](images/github.png)
 </center>
 
+If you don't know what a pull request is, how to push to GitHub, or any of the other jargon I used above, don't worry! We'll discuss all of this during lab meetings throughout the year.
+
+### Code Style
+
+We will use the [tidyverse style guide](https://style.tidyverse.org/) for R and [PEP-8 style guide](https://www.python.org/dev/peps/pep-0008/) for Python. Since we're all new to coding, this will __hopefully__ help us develop good code hygiene (and mitigate the learning of bad  habits).
+
 ## Funding
 
 I will oversee all aspects of the financial management of our funding sources. However, it is important to me to be transparent about where research money comes from and how it's spent. Current funding for the lab comes from my startup package from UT Dallas. 
 
 Hopefully we will have NIH funding in the future. When that happens, we will need to comply with federal guidelines. Also, all research funded by the NIH must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 
-## Undergraduate research
-
-TBD
