@@ -72,7 +72,7 @@ project
   |--- src
 ```
 
-This  structure is directly stolen from my new favorite blog post, [r best practices](https://kdestasio.github.io/post/r_best_practices/) for more details). We will adapt this format as needed for other programming languages.
+This  structure is directly stolen from my new favorite blog post, [r best practices](https://kdestasio.github.io/post/r_best_practices/). We will adapt this format as needed for other programming languages.
 
 Code files are stored in the top level of the `project` directory and are named with leading numbers (e.g. `0_get_data.R`) that indicate the order that the scripts should be run in. Also stored in this top-level is a `README.txt` file that contains a description of the project and a brief summary for each folder/file in the project.
 
