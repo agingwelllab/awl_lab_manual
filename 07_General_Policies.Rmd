@@ -14,6 +14,16 @@ In addition to poking my head into the lab regularly, I will be in my office wit
 
 If you need something from me by a particular deadline, please inform me as soon as you are aware of the deadline so that I can allocate my time as efficiently as possible. __I will expect _at least_ one week's notice__, but I greatly prefer two weeks' notice. Please note that this applies to reading/ commenting on abstracts, papers, and manuscripts, in addition to filling out paperwork, etc. __I will require _at least_ two weeks' notice for letters of recommendation.__ If you do not adhere to these guidelines, I may not be able to meet your deadline.
 
+## Recommendation Letters
+
+<center>
+![](images/recletter.jpg)  
+</center>
+
+Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
+
+To request a letter of recommendation, please adhere to the deadline requirements described above. Send me (1) your current CV, (2) directions for how to submit the rec letter and (3) any relevant instructions for the contents of the letter. In some but not all cases, I may ask you or your lab mentor to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
+
 ## Data Products (Posters, Presentations, & Papers)
 
 I encourage you to seek out opportunities to present your research to the department, research community, or general public. Any data products for projects from our lab should be discussed with me __before__ an abstract or draft is created or circulated. As lab director, I am responsible for the research coming out of the lab and I need to approve any data products before they leave the laboratory. Remember, all data products from our lab will ultimately be shared on OSF.
@@ -36,23 +46,37 @@ More to come soon!
 ![](images/conference_talk.gif)
 </center>  
 
-## Recommendation Letters
-
-<center>
-![](images/recletter.jpg)  
-</center>
-
-Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
-
-To request a letter of recommendation, please adhere to the deadline requirements described above. Send me (1) your current CV, (2) directions for how to submit the rec letter and (3) any relevant instructions for the contents of the letter. In some but not all cases, I may ask you or your lab mentor to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
-
 ## Data management
 
-This section is still in development.
+This section is still in development. 
 
-### Storing active data sets
+## Box 
 
-### Archiving data
+The AWL has a Box account that will be used to store *most* of our work. Because this is a lab account, it is cruical that everyone use the following organizational scheme in this directory.
+
+### Grants
+
+This folder contains general grant resources and _specific_ folders for each grant application. If you are starting a new grant application, create a new folder here for your documents. 
+
+### Institutional Review Board (IRB)
+
+This folder contains documents for all IRB-approved protocols in the lab. In addition to _specific_ folders for each project, there is a folder of sample IRBs and Human Research Certificates).If you are starting a new IRB application, create a new folder here for your documents. Make sure you include a README file specifying the following documents: (1) IRB application and (2) approval letter. If you are using data from another institution, also specify the data use agreement (DUA).  
+
+### Lab Management 
+
+This folder contains documents related to lab manager. 
+
+### Measures
+
+This folder contains commonly used measures in the lab. There will be a _specific_ folder for each measure that contains the measure (e.g. Qualtrics or PsychoPy folder) and scripts to clean and compile the data. Make sure you include a README file describing the contents of your folder.
+
+### Presentations 
+
+This folder contains abstracts and posters/power points for conferences. There is a folder for each conference we regularly attend (e.g. Cognitive Aging Conference, CAC). The contents of each conference folder are organized by year. If you are submitting an abstract to a conference, find (or create) the appropriate conference folder, find (or create) the appropriate year folder, and then create a folder for your own project. If you're creating a new folder, include a README file with general info about the conference and when abstracts are typically due. 
+
+### Projects
+
+This folder contains some data (not neuroimaging) and code for our lab projects. There will be a folder for each project in the lab and it will be organized as described in the following section (Data and code organization). If you're creating a new folder, include a README file describing the project and folder contents. 
 
 ### Data and code organization
 
@@ -111,6 +135,10 @@ If you don't know what a pull request is, how to push to GitHub, or any of the o
 ### Code Style
 
 We will use the [tidyverse style guide](https://style.tidyverse.org/) for R and [PEP-8 style guide](https://www.python.org/dev/peps/pep-0008/) for Python. Since we're all new to coding, this will __hopefully__ help us develop good code hygiene (and mitigate the learning of bad  habits).
+
+### Archiving data
+
+This area is TBD.
 
 ## Funding
 
