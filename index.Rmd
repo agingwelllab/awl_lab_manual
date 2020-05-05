@@ -20,6 +20,8 @@ Since we are a brand-new lab, this manual was inspired by (and in some places di
 
 This lab manual was created in R Studio using the [bookdown](https://bookdown.org/yihui/bookdown/) package. 
 
+![](images/awl.png) 
+
 ## About the Lab
 
 Our research is dedicated to using basic and translational scientific research  to promote health and wellbeing across adulthood. We use a variety of behavioral, modeling and neuroimaging techniques to better understand how the mind and the brain change as people get older.
