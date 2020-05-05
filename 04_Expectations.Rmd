@@ -108,10 +108,6 @@ I will expect postdocs and staff scientists to move towards being more PI-like, 
 
 Also, to have (or acquire) the technical and open science skills listed for PhD students below.
 
-<center>
-![](images/postdoc.gif)
-</center>
-
 Postdoc salaries generally follow [NIH guidelines](https://www.niaid.nih.gov/grants-contracts/salary-cap-and-stipend-levels-announced). 
 
 ## Students

@@ -42,10 +42,6 @@ If you are going to give a presentation (including posters and talks), please be
 
 More to come soon!  
 
-<center>
-![](images/conference_talk.gif)
-</center>  
-
 ## Data management
 
 This section is still in development. 
