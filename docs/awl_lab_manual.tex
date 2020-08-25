@@ -1,3 +1,6 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
 \documentclass[]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -6,31 +9,34 @@
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
 \else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
+  \usepackage{unicode-math}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{%
-\usepackage{microtype}
+\usepackage[]{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
 \usepackage{hyperref}
-\hypersetup{unicode=true,
+\hypersetup{
             pdftitle={Aging Well Lab Manual},
             pdfauthor={Kendra Seaman},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{natbib}
-\bibliographystyle{apalike}
 \usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -40,12 +46,6 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -60,31 +60,10 @@
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
-%%% Use protect on footnotes to avoid problems with footnotes in titles
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-%%% Change title format to be more compact
-\usepackage{titling}
-
-% Create subtitle command for use in maketitle
-\providecommand{\subtitle}[1]{
-  \posttitle{
-    \begin{center}\large#1\end{center}
-    }
-}
-
-\setlength{\droptitle}{-2em}
-
-  \title{Aging Well Lab Manual}
-    \pretitle{\vspace{\droptitle}\centering\huge}
-  \posttitle{\par}
-    \author{Kendra Seaman}
-    \preauthor{\centering\large\emph}
-  \postauthor{\par}
-      \predate{\centering\large\emph}
-  \postdate{\par}
-    \date{2020-05-04}
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
 
 \usepackage{booktabs}
 \usepackage{amsthm}
@@ -94,6 +73,12 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{Aging Well Lab Manual}
+\author{Kendra Seaman}
+\date{2020-08-24}
 
 \begin{document}
 \maketitle
@@ -179,23 +164,33 @@ You should expect to regularly receive feedback from your mentor and your peers.
 
 All lab members are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation with all members to help ensure a safe environment for everyone. Please also see the \href{https://policy.utdallas.edu/utdbp3090}{UT Dallas Nondiscrimination policy}.
 
-\hypertarget{the-quick-version}{%
-\subsection{The Quick Version}\label{the-quick-version}}
-
 The Aging Well Lab is committed to providing a harrassment-free environment, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harrassment of lab members in any form. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
-
-\hypertarget{the-less-quick-version}{%
-\subsection{The Less Quick Version}\label{the-less-quick-version}}
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Kendra Seaman immediately. If Kendra is the cause of your concern, then please reach out to one of the center directors or another trusted departmental member who can assist.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the lab director, Kendra Seaman immediately. If Kendra is the cause of your concern, then please reach out to one of the center director or another trusted center member who can assist.
 
 We expect members to follow these guidelines at any lab-related event.
 
 This section was adapted from the \href{https://github.com/memobc/memolab-manual\#code-of-conduct}{MemoLab}.
+
+\hypertarget{anonymous-lab-survey}{%
+\section{Anonymous Lab Survey}\label{anonymous-lab-survey}}
+
+Twice a year, we will conduct an anonymous lab culture survey. Because this survey is anonymous, you will be able to give honest feedback to the lab director about the culture of the lab. These surveys will be deployed near the end of the fall semester (first week of December) and spring semester (first week of May).
+
+\hypertarget{contact-information}{%
+\section{Contact Information}\label{contact-information}}
+
+Dr.~Kendra Seaman
+AWL Director
+\href{mailto:kendra.seaman@utdallas.edu}{\nolinkurl{kendra.seaman@utdallas.edu}}
+
+Dr.~Mick Rugg
+CVL Director
+\href{mailto:mrugg@utdallas.edu}{\nolinkurl{mrugg@utdallas.edu}}
 
 \hypertarget{expectations-and-responsibilities}{%
 \chapter{Expectations and Responsibilities}\label{expectations-and-responsibilities}}
@@ -471,6 +466,8 @@ I will expect Master's students to move towards being more PhD student-like. In 
 * complete an empirical study in the lab, and\\
 * complete a poster and/or written manuscript of that study.
 
+All Master's students will be required to enroll in directed research and/or independent study. The expectation is that you will work 3 hours/week in the lab for each credit hours (1 credit = 3hrs/week, 2 credits = 6hrs/week, 3 credits = 9 hrs/week). Students can enroll in the appropriate section of HCS 8V89 with Dr.~Seaman.
+
 \includegraphics{images/researchcat.jpg}
 
 \hypertarget{undergraduate-students}{%
@@ -495,6 +492,8 @@ I expect undergraduates to:
 \end{itemize}
 
 In most cases, undergraduates will be directly mentored by the lab manager for their first semester in the lab, and then move on to work directly with a research assistant or graduate student.
+
+All undergraduate students will be required to enroll in directed research and/or independent study. The expectation is that you will work 3 hours/week in the lab for each credit hours (1 credit = 3hrs/week, 2 credits = 6hrs/week, 3 credits = 9 hrs/week). BBS students can find the appropriate form at \url{https://bbs.utdallas.edu/files/independent-study-courses.pdf}.
 
 \hypertarget{communication}{%
 \chapter{Communication}\label{communication}}
@@ -544,7 +543,7 @@ Slack is a team-collaboration tool that we will use for communication.
 \item
   Try to avoid direct messages in Slack. Instead, find a home for your comment or question in an existing channel. This allows you to get answers and feedback from multiple people in the lab.\\
 \item
-  When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate.
+  When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate. To reply to a post in a thread, click on the bubble with three horizontal lines in the upper right-hand corner of the message (right next to the reaction button). Checkout \href{https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-}{this website} for more info on threads.
 \end{itemize}
 
 \includegraphics{images/slack.png}
@@ -565,7 +564,7 @@ We do have a lab listserve. \textbf{Use this sparingly.} To send a message to th
 \hypertarget{calendars}{%
 \subsection{Calendars}\label{calendars}}
 
-TBD
+Our lab manager will maintain a lab calendar, associated with our lab email account. You can access this calendar \href{https://calendar.google.com/calendar/embed?src=agingwelllab\%40gmail.com\&ctz=America\%2FNew_York}{here}.
 
 \hypertarget{phone}{%
 \subsection{Phone}\label{phone}}
@@ -662,10 +661,12 @@ One of the benefits of a career in academic research is that it is typically mor
 
 Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 9-5). Graduate students and postdocs have more flexibility.
 
+The lab will observe the official \href{https://www.utdallas.edu/hr/news/holidays/}{UTD holidays}.
+
 \hypertarget{pi-office-hours}{%
 \subsection{PI Office Hours}\label{pi-office-hours}}
 
-In addition to poking my head into the lab regularly, I will be in my office with the door open for at least an hour every day that I'm at CVL (usually Mondays, Wednesdays, and Fridays). Feel free to interrupt me during that time. If my door is closed, I am likely in a meeting, on the phone, or doing ``deep'' work. In that case, please send me a message or try me later rather than knock.
+In addition to poking my head into the lab regularly, I will be in my office with the door open for at least an hour every day that I'm at CVL (usually Monday, Wednesday, and Friday afternoons). Feel free to interrupt me during that time. If my door is closed, I am likely in a meeting, on the phone, or doing ``deep'' work. In that case, please send me a message or try me later rather than knock.
 
 \hypertarget{deadlines}{%
 \section{Deadlines}\label{deadlines}}
@@ -704,8 +705,6 @@ More to come soon!
 
 \hypertarget{data-management}{%
 \section{Data management}\label{data-management}}
-
-This section is still in development.
 
 \hypertarget{box}{%
 \section{Box}\label{box}}
@@ -844,6 +843,5 @@ Hopefully we will have NIH funding in the future. When that happens, we will nee
 \textbf{Peele Lab's Manuscript Checklist} - a checklist of things to do before submitting a manuscript to ensure open access - \url{https://github.com/jpeelle/paperchecklist}
 
 \bibliography{book.bib,packages.bib}
-
 
 \end{document}

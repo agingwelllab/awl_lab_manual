@@ -37,7 +37,7 @@ Asana is a project-management platform that we will use to track progress on var
 Slack is a team-collaboration tool that we will use for communication.  
 
 * Try to avoid direct messages in Slack. Instead, find a home for your comment or question in an existing channel. This allows you to get answers and feedback from multiple people in the lab.  
-* When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate.  
+* When replying to a question or comment, try to use threads. This keeps the conversation organized and easy to navigate. To reply to a post in a thread, click on the bubble with three horizontal lines in the upper right-hand corner of the message (right next to the reaction button). Checkout [this website](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) for more info on threads.
 
 <center>
 ![](images/slack.png)
@@ -59,7 +59,7 @@ We do have a lab listserve. __Use this sparingly.__ To send a message to the lis
 
 ### Calendars
 
-TBD
+Our lab manager will maintain a lab calendar, associated with our lab email account. You can access this calendar [here](https://calendar.google.com/calendar/embed?src=agingwelllab%40gmail.com&ctz=America%2FNew_York). 
 
 ### Phone
 
