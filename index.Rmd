@@ -20,7 +20,7 @@ Since we are a brand-new lab, this manual was inspired by (and in some places di
 
 This lab manual was created in R Studio using the [bookdown](https://bookdown.org/yihui/bookdown/) package. 
 
-![](images/awl.png) 
+![](images/awl.png){width=50%}
 
 ## About the Lab
 
@@ -32,13 +32,13 @@ Center for Vital Longevity
 1600 Viceroy Drive, Suite 800  
 Dallas, TX 75235
 
-![](images/cvl.jpg)
+![](images/CVL-B-Stacked.png){width=50%}
 
 ## Lab Info
 
 The lab has several public-facing accounts that anyone can access:
 
-* Website: https://agingwelllab.github.io/
+* Website: https://vitallongevity.utdallas.edu/seamanlab/
 * GitHub: https://github.com/agingwelllab
 * OSF: https://osf.io/26jqs/  
 
