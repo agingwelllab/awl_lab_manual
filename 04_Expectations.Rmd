@@ -67,6 +67,8 @@ As the lab director, you can expect me to:
 ![](images/boss.jpg)
 </center>
 
+Please understand that as a faculty member, the I have numerous jobs that you may or may not see me perform. These include *teaching* classes and managing teaching assistant/s, *service* like reviewing grant proposals, journal manuscripts, dissertation proposals, dissertations, project proposals, various projects, Master's and Honor's theses, program applications, etc, and *research* like writing grant proposals, progress reports, and manuscripts. Because I am juggling all these tasks, I am going to ask you to do some things to help keep things organized. These details are included in the *"Managing Up"* section of the Communication chapter. 
+
 ## Employees
 
 Employee salaries follow the [UTD paygrade](https://www.utdallas.edu/hr/compensation/classified/). 
@@ -77,7 +79,7 @@ The lab manager is the heart and soul of the lab. While other lab members (inclu
 
 In order to provide constency for the lab, I expect the lab manager to:  
 
-* maintain regularly scheduled hours on weekdays (except for [UTD holidays](https://www.utdallas.edu/hr/news/holidays/)),  
+* maintain regularly scheduled hours on weekdays (e.g. 9am-5pm, except for [UTD holidays](https://www.utdallas.edu/hr/news/holidays/)), 
 * serve as a liason between the the CVL administrative staff and our lab,  
 * check the lab email and personal work email accounts daily and respond to all emails within two business days, and  
 * check the voicemail daily and arrange for return calls to be made within one business day.  
@@ -88,6 +90,7 @@ In order to provide constency for the lab, I expect the lab manager to:
 
 The Lab Manager's primary responsibilities include:  
 
+* facilitation access to the physical lab space for lab members, 
 * facilitating the purchase and setup of any new equipment for the lab,  
 * coordinating and training all lab research assistants,  
 * assisting with the design and implementation of behavioral, eye-tracking, and fMRI experiments,  
@@ -106,6 +109,11 @@ I will expect postdocs and staff scientists to move towards being more PI-like, 
 * writing grant proposals, and  
 * cultivating an independent research program (up to 10% of time). 
 
+I also expect postdocs and staff scienstists to be  active, engaged lab members. This includes:
+
+* maintaining a regular physical presence in the lab (specific days/times can be discussed with Dr. Seaman), and 
+* attend lab, small-group, and one-on-one meetings as needed.
+
 Also, to have (or acquire) the technical and open science skills listed for PhD students below.
 
 Postdoc salaries generally follow [NIH guidelines](https://www.niaid.nih.gov/grants-contracts/salary-cap-and-stipend-levels-announced). 
@@ -116,7 +124,8 @@ Postdoc salaries generally follow [NIH guidelines](https://www.niaid.nih.gov/gra
 
 I will expect graduate students to:  
 
-* attend classes, colloquium, and relevant talks around campus,  
+* attend classes, colloquium, and relevant talks around campus,
+* maintain a physical presence in the lab (e.g. keep regular hours in the lab MWF during academic year), 
 * be __excited__ about the research questions they are asking, be __eager__ to find the answers, and __anxious__ to share their results with others,  
 
 <center>
@@ -148,7 +157,7 @@ The learning curve for these skills can be steep, but developing these skills is
 
 I will expect Master's students to move towards being more PhD student-like. In particular, by the end of their time in the lab, I expect master's students to:  
 * complete an empirical study in the lab, and  
-* complete a poster and/or written manuscript of that study.  
+* complete a poster and/or written manuscript of that study. 
 
 All Master's students will be required to enroll in directed research and/or independent study. The expectation is that you will work 3 hours/week in the lab for each credit hours (1 credit = 3hrs/week, 2 credits = 6hrs/week, 3 credits = 9 hrs/week). Students can enroll in the appropriate section of HCS 8V89 with Dr. Seaman.
 
@@ -175,3 +184,17 @@ In most cases, undergraduates will be directly mentored by the lab manager for t
 
 All undergraduate students will be required to enroll in directed research and/or independent study. The expectation is that you will work 3 hours/week in the lab for each credit hours (1 credit = 3hrs/week, 2 credits = 6hrs/week, 3 credits = 9 hrs/week). BBS students can find the appropriate form at  https://bbs.utdallas.edu/files/independent-study-courses.pdf. 
 
+## Exit Procedures
+<center>
+![](images/leave.png)  
+</center>
+
+When it's time to leave the lab, there a few things you need to do get ready to leave.
+
+(1) Schedule an exit interview with your mentor to wrap up your time in the lab. 
+(2) Return your CVL access card/Lab keys to Vivian Brockwell.
+(3) Clean up your folders on the lab Box account and any physical computers. This means:
+* Deleting any personal files.
+* Making sure that everything you were working on is clearly documented. This means creating a README file for any project folders. Make sure all files have descriptive names. 
+
+You may be wondering what you can take with you when you leave. You are welcome to take copies of any posters, manuscripts, or scripts that you created during your time in the lab. However, **do not remove any AWL data from AWL/CVL/UTD storage devices.** During your exit interview, we can make arrangements to share the appropriate data with you if it is not already publicly available.  
