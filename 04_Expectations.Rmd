@@ -48,9 +48,9 @@ We're sharing a relatively small space, so please be thoughtful of others. Speci
 
 As the lab director, you can expect me to:  
 
-* Have a vision for where the lab is going, both in the short-term (next few weeks) and in the long-term (next few years).
+* Have a vision for where the lab is going, both in the short-term (next few weeks) and in the long-term (next few years).  
 * Obtain funding to support our laboratory.  
-* Care about your happiness.
+* Care about your happiness.  
 * Support your career development, including:  
      * writing recommendation letters,  
      * introducing you to other scientists (potential future mentors and colleagues),  
@@ -67,7 +67,33 @@ As the lab director, you can expect me to:
 ![](images/boss.jpg)
 </center>
 
-Please understand that as a faculty member, the I have numerous jobs that you may or may not see me perform. These include *teaching* classes and managing teaching assistant/s, *service* like reviewing grant proposals, journal manuscripts, dissertation proposals, dissertations, project proposals, various projects, Master's and Honor's theses, program applications, etc, and *research* like writing grant proposals, progress reports, and manuscripts. Because I am juggling all these tasks, I am going to ask you to do some things to help keep things organized. These details are included in the *"Managing Up"* section of the Communication chapter. 
+Please understand that as a faculty member, I have **numerous** jobs that you may or may not see me perform. These include ***teaching***, ***research***, and ***service***.
+
+***Teaching*** can include:  
+* creating lecture slides, assignments and assessments,  
+* managing teaching assistant/s,  
+* delivering lectures,  
+* grading, and  
+* holding office hours.  
+
+***Research*** can include:  
+* writing grant proposals and progress reports,  
+* designing experiments,  
+* setting up research protocols,  
+* cleaning and analyzing data,  
+* writing and revising manuscripts,  
+* manging communication and participant recruitment (website, twitter, etc) and  
+* managing/mentoring research staff and volunteers.  
+
+***Service*** can include:  
+* reviewing grant proposals and journal manuscripts,  
+* reviewing dissertation and other project proposals,  
+* reviewing dissertations, Master's and Honor's theses,  
+* reviewing program or award applications,  
+* planning brown bag lunches, workshops, or conferences, and  
+* serving on CVL, Psychology/BBS, or UTD committees.  
+
+Because I am juggling all these tasks, I am going to ask **you** to do some things to help keep things organized. These details are included in the *"Managing Up"* section of the Communication chapter. 
 
 ## Employees
 
@@ -193,8 +219,9 @@ When it's time to leave the lab, there a few things you need to do get ready to 
 
 (1) Schedule an exit interview with your mentor to wrap up your time in the lab. 
 (2) Return your CVL access card/Lab keys to Vivian Brockwell.
-(3) Clean up your folders on the lab Box account and any physical computers. This means:
+(3) Get organized! Clean up your folders on the lab Box account and any physical computers. This means:
 * Deleting any personal files.
-* Making sure that everything you were working on is clearly documented. This means creating a README file for any project folders. Make sure all files have descriptive names. 
+* Making sure that everything you were working on is clearly documented. Create and/or update the README file for any project folders. 
+* Make sure all computer files have descriptive names. 
 
 You may be wondering what you can take with you when you leave. You are welcome to take copies of any posters, manuscripts, or scripts that you created during your time in the lab. However, **do not remove any AWL data from AWL/CVL/UTD storage devices.** During your exit interview, we can make arrangements to share the appropriate data with you if it is not already publicly available.  
