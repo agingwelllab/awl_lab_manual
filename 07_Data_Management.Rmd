@@ -1,6 +1,6 @@
 # Data Management
 
-Data are *valuable*,*expensive*, and *crucial* for science. Also, as human subjects researchers, it is critical that we project the privacy of our participants and make sure that we are making the best use of our participants time. Therefore, data management is one of the most important things you will do as a researcher. Further, some of the data our lab works on has been shared with us by collaborators. This data may be protected, have a specific data use agreement, and/or not publicly shared. This means that we have agreed to only use the data for a specific purpose, and using the data beyond the agreed-to purpose is not allowed. 
+Data are *valuable*, *expensive*, and *crucial* for science. Also, as human subjects researchers, it is critical that we project the privacy of our participants and make sure that we are making the best use of our participants time. Therefore, data management is one of the most important things you will do as a researcher. Further, some of the data our lab works on has been shared with us by collaborators. This data may be protected, have a specific data use agreement, and/or not publicly shared. This means that we have agreed to only use the data for a specific purpose, and using the data beyond the agreed-to purpose is not allowed. 
 
 Thus, there is **no universal access** to data in the Aging Well Lab. You will only have access to the data you need to complete the project or projects for which you are working. If, for any reasons, you need access to some of the lab's unpublished data, please contact Dr. Seaman. She will determine whether access is warranted. Do not use lab data for any purpose other than the project (or projects) we have discussed. If you would like to use lab data for another purpose, please contact Dr. Seaman and she will determine if that use is ok. 
 
@@ -80,7 +80,7 @@ This is where the output of any projects will be stored. It can have subfolders 
 
 To be developed.
 
-### Data and code organization
+## Data and code organization
 
 To facillitate collaborative work and data sharing, all projects will have a similar file structure. This will also make it easier resume work on a project after a break and facilitate recycling of code for other projects.
 
