@@ -155,7 +155,7 @@ I will expect graduate students to:
 * be __excited__ about the research questions they are asking, be __eager__ to find the answers, and __anxious__ to share their results with others,  
 
 <center>
-![](images/bestdata.jpeg)
+![](images/patrick_writing_paper.jpg){width=75%}
 </center>
 
 * seek out and apply for fellowships and awards (including travel awards), and  

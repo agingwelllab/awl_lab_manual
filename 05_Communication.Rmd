@@ -8,7 +8,7 @@ Communication is critical. Whether you pursue academia or industry, you will nee
 
 ## Lab Meetings  
 
-Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. **All full-time staff, graduate students and anyone leading a project** will be expected to attend (unless cleared with Dr. Seaman in advance). For other lab members (e.g. some undergraduate RAs), attendance at lab meetings will only required at the first meeting of each month. 
+Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. **All full-time staff, graduate students and anyone leading a project** will be expected to attend (unless cleared with Dr. Seaman in advance). ***For other lab members (e.g. some undergraduate RAs), attendance at lab meetings will only required at the first meeting of each month***. 
 
 During lab meetings, one or two presenters will be responsible for setting the agenda that day. The presenter/s will also be responsible for sharing any relevant materials (e.g. journal article) a couple of days in advance. If you're scheduled to present and need to cancel or postpone, please give the group 72 hours notice. __Everyone is expected to participate in lab meetings.__ That means reading relevant material beforehand and if you are easily distracted by your computer or phone, put it away.
 
@@ -23,7 +23,7 @@ All mentors should have weekly meetings with their mentees, lasting between 15 m
 ## Asana  
 
 <center>
-![](images/asana.jpg)  
+![](images/i_think_we_all.jpg){width=50%}
 </center>
 
 Asana is a project-management platform that we will use to track progress on various projects in the lab.  
@@ -32,10 +32,15 @@ Asana is a project-management platform that we will use to track progress on var
 * Be realistic and flexible with due dates. Of course you should try to get things done in a timely manner, but sometimes, life happens and you have to adjust.  
 * If you're leading a project in the lab, please make sure that your project is listed on Asana. All project-related tasks should be under your project.  
 
+<center>
+![](images/asana.jpg){width=30%}
+
+</center>
+
 ## Slack  
 
 <center>
-![](images/slack.png)
+![](images/dropping_hints_slack.jpg){width=50%}
 </center>
 
 Slack is a team-collaboration tool that we will use for communication.  

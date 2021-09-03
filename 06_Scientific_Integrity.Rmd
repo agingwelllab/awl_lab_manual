@@ -21,7 +21,7 @@ Conducting reproducible research is more difficult than it sounds, because it re
 Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. 
 
 <center>
-![](images/final.png)
+![](images/expanding_brain.jpeg){width=40%}
 </center>
 
 As a lab, we will use git and GitHub for version control. This is a requirement because (a) it is the only way to track the evolution of methods/files over time, (b) it allows for easier detection of bugs, and (c) it facilitates code sharing. All of these things are directly relevant to conducting reproducible research. More information on GitHub can be found in the General Policies section.
@@ -55,7 +55,7 @@ For projects that required significant lab resources (e.g. fMRI studies, behavio
 Because we are engaged in human subjects research, it is imperative that we adhere to our approved IRB protocols. __All lab members must read and comply with the IRB-approved consent form and research summary for any project that they are working on.__ Lab members must also complete [UTD Human Subjects Training](https://research.utdallas.edu/researchers/human-subjects-research/forms-and-resources/training-and-workshops) through eLearning and be added to the research personnel list before they can work with humnan subjects or data. After completing Human Subjects training, the certification of completion must be sent to the lab manager, who is responsible for maintaining these files. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or me for clarification. If neccessary, the lab manager can file an amendment to an existing protocol or help you create a new protocol.
 
 <center>
-![](images/human_subjects.jpeg)
+![](images/gg_irb_meme.jpg){width=40%}
 </center>
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should __immediately__ seek assistance from me or the lab manager. If I am not around, you __MUST__ notify me within 24 hours, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.

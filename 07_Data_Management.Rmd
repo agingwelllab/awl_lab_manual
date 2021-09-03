@@ -6,6 +6,10 @@ Thus, there is **no universal access** to data in the Aging Well Lab. You will o
 
 As a lab, we will use a variety of storage mechanisms for data, code, data products, and other lab documents. These include UT Dallas Box, Github, the AWL Lab server (garfield), the UT Dallas HPC (Europa), our lab wiki, and storage space on local computers. **Please do not store lab data on any non-UT Dallas computer or external storage device.**
 
+<center>
+![](images/coding_meme.jpg){width=60%}
+</center>
+
 ## Box 
 
 The AWL has a Box account that will be used to store *most* of our work. Because this is a lab account, it is cruical that everyone use the following organizational scheme in this directory.
@@ -20,7 +24,7 @@ This folder contains documents for all IRB-approved protocols in the lab. In add
 
 ### Lab Management 
 
-This folder contains documents related to lab manager. 
+This folder contains documents related to managing the lab. There are separate folders for different aspect of the Lab Manager's duties, including onboarding new members, recruitment for our studies, supply orders, and files relating to our public facing website.
 
 ### Measures
 
