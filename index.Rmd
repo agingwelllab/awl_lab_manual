@@ -47,3 +47,5 @@ The lab also has sites that are only accessible to lab members:
 * CVL Lab Wiki: https://cvlwiki.utdallas.edu/doku.php?id=seamanlab:home
 * Asana: https://app.asana.com
 * Slack: https://agingwelllab.slack.com
+
+![](images/Lab_photo_Summer2021.jpg){width=100%}
