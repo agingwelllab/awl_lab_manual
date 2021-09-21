@@ -1,4 +1,4 @@
-# Scientific Integrity
+# Scientific Integrity and Project Life Cycle
 
 We have a resposibility to uphold the highest standards of scientific integrity. There is never an excuse for fabricating or misrepresenting data. If you have any questions or  concerns about a research practice you have seen in the lab, please talk to me __immediately.__
 
@@ -31,6 +31,13 @@ As a lab, we will use git and GitHub for version control. This is a requirement 
 Pre-registration is specifying a data collection and analysis plan __before__ you gather data. This will allow us to distinguish between what we set out to do, or _confirmatory analyses_ and what we discovered in the process of doing research, or _exploratory_ analyses. See [Preregistration: A Plan, Not a Prison](https://cos.io/blog/preregistration-plan-not-prison/) for more information.
 
 For each study in our lab, we will create a preregistration and repository on OSF (osf.io) using our lab's project template. More information about OSF can be found in the General Policies section.
+
+## Ideal Project Life Cycle
+<center>
+![](images/PLC.jpg)
+</center>
+
+This is an idealized chart showing the stages of a research project in the lab, starting with planning activities in green, research progress in blue/red, and ultimate research outcomes in black. Tasks at the same level of this hierarchy can be performed at the same time (e.g. Participant testing and drafting of Intro/Methods) while activities at different levels in this hierarchy should proceed (and sometimes MUST proceed) in sequential order, from top to bottom (e.g. Data analysis must happen before you can write a results section). 
 
 ## Authorship
 
