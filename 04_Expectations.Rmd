@@ -210,6 +210,20 @@ In most cases, undergraduates will be directly mentored by the lab manager for t
 
 All undergraduate students will be required to enroll in directed research and/or independent study. The expectation is that you will work 3 hours/week in the lab for each credit hours (1 credit = 3hrs/week, 2 credits = 6hrs/week, 3 credits = 9 hrs/week). BBS students can find the appropriate form at  https://bbs.utdallas.edu/files/independent-study-courses.pdf. 
 
+## Project Leads
+
+<center>
+![](images/power.jpg)
+</center> 
+
+More experienced lab members (postdocs, graduate students, advanced undergraduate students) may be asked to lead a project in the lab, making them a project lead. In addition to coordinating research efforts, it is important to acknowledge that this is a leadership position. This means that you will most likely be repsonsible for supervising/mentoring some of your peers in the lab. 
+
+As a project lead, you will have additional responsibilities. These include:  
+* coordinating with Dr. Seaman on all aspects of the project,  
+* training your project team on data collection protocol and standard operating procedures for the lab,  
+* meeting regularly (e.g. every two weeks) with your project team to discuss the project's process, and  
+* mentoring those on your team (though the review of expectations and rec letter forms at beginning of each semester).  
+
 ## Exit Procedures
 <center>
 ![](images/leave.png)  
