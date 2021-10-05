@@ -42,9 +42,9 @@ __Postdoc/Graduate Students/Post-bacc RAs__
 
 __Undergraduate Students__
 
-* You will complete the [Expectations](https://drive.google.com/file/d/1SMBHT4_-o3uOZO_1NsZfPhd7DiCtxzk-/view?usp=sharing) document when you first join the lab and a copy will be saved by your mentor in the AWL Box folder.
+* You will complete the [Expectations](docs/Research_Experience_Expectations.dotx) document when you first join the lab and a copy will be saved by your mentor in the AWL Box folder.
 
-* You will complete the [Letter of Rec](https://drive.google.com/file/d/1-fT-UUQl8cwaDV_kTXRV8TXlwEIqiMu2/view?usp=sharing) document at the beginning of each subsequent semester you work in the laboratory. Copies of these documents will be saved by your mentor in the AWL Box folder.
+* You will complete the [Letter of Rec](docs/Letter of Recommendation.dotx) document at the beginning of each subsequent semester you work in the laboratory. Copies of these documents will be saved by your mentor in the AWL Box folder.
 
 ## Feedback
 
