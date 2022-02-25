@@ -29,6 +29,7 @@ lab-meetings
 individual-and-small-group-meetings
 asana
 slack
+for-lab-members-running-sessions
 email
 calendars
 phone
@@ -77,4 +78,3 @@ funding
 resources
 glossary
 links
-for-lab-members-running-sessions
