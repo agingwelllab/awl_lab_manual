@@ -4,10 +4,6 @@
 %
 \documentclass[
 ]{book}
-\title{Aging Well Lab Manual}
-\author{Kendra Seaman}
-\date{2022-02-25}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{iftex}
@@ -37,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Aging Well Lab Manual},
-  pdfauthor={Kendra Seaman},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -85,6 +73,18 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Aging Well Lab Manual},
+  pdfauthor={Kendra Seaman},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Aging Well Lab Manual}
+\author{Kendra Seaman}
+\date{2022-08-22}
 
 \begin{document}
 \maketitle
@@ -898,16 +898,18 @@ This folder contains commonly used tasks in the lab. There will be a \emph{speci
 \hypertarget{github}{%
 \section{GitHub}\label{github}}
 
-We will use git and GitHub for version control and collaboration. Thus, all projects in the lab will have a repository (aka ``repo'') on GitHub. To get started with Git/GitHub, I encourage you to read the \href{https://ourcodingclub.github.io/2017/02/27/git.html}{Coding Club's Intro to GitHub}. This is just the beginning; we will dedicate at least one lab meeting to a git/GitHub tutorial each year. There are also several GitHub tutorials linked on the lab website's resource page.
+We will use git and GitHub for version control and collaboration. Thus, all projects in the lab will have a repository (aka ``repo'') on GitHub. To get started with Git/GitHub, I encourage you to read the \href{https://ourcodingclub.github.io/2017/02/27/git.html}{Coding Club's Intro to GitHub}.
 
-Using GitHub not only allows us to keep track of and work collaboratively on projects, but it also makes it easy to share projects on OSF when they are complete. Because we will ultimately share our GitHub repos with the world, I am going to ask lab members to submit pull requests instead of pushing their changes directly to GitHub. In other words, don't be this cat:
+Using GitHub not only allows us to keep track of and work collaboratively on projects, but it also makes it easy to share projects on OSF when they are complete. Because we will ultimately share our GitHub repos with the world, lab members are expected to submit \href{https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests}{pull requests} instead of pushing their changes directly to GitHub. This will allow me to review code and suggest changes in an easy-to-use format.
+
+In other words, don't be this cat:
 
 \includegraphics{images/github.png}
 
-If you don't know what a pull request is, how to push to GitHub, or any of the other jargon I used above, don't worry! We'll discuss all of this during lab meetings throughout the year.
+If you don't know what a pull request is, consult the lab wiki and/or ask a fellow lab member for help.
 
-\hypertarget{awl-local-computer}{%
-\section{AWL Local Computer}\label{awl-local-computer}}
+\hypertarget{awl-local-computers}{%
+\section{AWL Local Computers}\label{awl-local-computers}}
 
 We will use the local lab computers to store behavioral data current projects. You should create a `github' directory your computer's desktop or in your home directory. Inside that directory, you should create a folder for each project you are working on in the lab. The folder should be organized as described in the \emph{Data and code organization} section below and it should be version controlled using \href{https://git-scm.com/}{git}. This is where you will work on data analysis. As you are working, you will sync this folder with a corresponding repository on GitHub.
 
@@ -916,32 +918,38 @@ We will use the local lab computers to store behavioral data current projects. Y
 
 \includegraphics[width=0.25\textwidth,height=\textheight]{images/garfield.jpeg}
 
-The AWL Lab Server will be used primarily for \emph{computational modeling} and \emph{neuroimaging} projects. Server access will generally be limited to lab staff and graduate students, with some exceptions as necessary. If you need access to the server, contact Dr.~Seaman and she will determine whether access is warranted. The server will be used to store data and run computationally-demanding analyses. Thus, we will store only raw and cleaned data and analysis and job scripts in a folder for each project.
+The AWL Lab Server is a shared lab resource. It will be used primarily for computationally-demanding processes - this primarilty means \emph{computational modeling} and \emph{neuroimaging} projects. Only data, code, and software directly related to lab projects is permitted on the server. If you would like to use the server for another purpose, you must gain Dr.~Seaman's explicit permission first.
 
-\hypertarget{raw-data}{%
-\subsection{Raw Data}\label{raw-data}}
+Server access will generally be limited to lab staff and graduate students, with some exceptions as necessary. If you need access to the server, contact Dr.~Seaman and she will determine whether access is warranted.
+
+All computational processes must be run as either (1) interactive job on a compute node, or (2) a batch job submitted to the compute node. \textbf{DO NOT RUN ANALYSES ON THE LOGIN NODE} because it will limit the ability of others in the lab to run analyses on the server.
+
+Each directory below will contain subdirectories that correspond to projects in the lab. Please make sure you are working in and saving in the appropriate directory.
+
+\hypertarget{raw}{%
+\subsection{Raw}\label{raw}}
 
 This is the data in its native format and is a READ ONLY folder. For questionnaire data, this is straight from Qualtrics or RedCap. For behavioral data, this is the three files generated by PsychoPy for each participant. For neuroimaging data, these are the DICOM files.
 
-\hypertarget{cleaned-data}{%
-\subsection{Cleaned Data}\label{cleaned-data}}
+\hypertarget{cleaned}{%
+\subsection{Cleaned}\label{cleaned}}
 
 This folder contains data in a format that is usable. For questionnaire data, this would be a cleaned data file with corresponding data dictionary. For behavioral and/or neuroimaging data, we will use \href{https://bids.neuroimaging.io/}{BIDS format}.
 
-\hypertarget{analysis-scripts}{%
-\subsection{Analysis Scripts}\label{analysis-scripts}}
+\hypertarget{analysis}{%
+\subsection{Analysis}\label{analysis}}
 
 This folder contains analysis scripts. These may be written in r/python for behavioral analysis or unix/python for neuroimaging analysis. All scripts should start with a number that denotes what order the scripts should be run in. Any auxilary scripts should be kept in a subfolder. Ideally, these scripts will be written in a way that thwy can ultimately be shared on github/OSF.
 
-\hypertarget{job-scripts}{%
-\subsection{Job Scripts}\label{job-scripts}}
+\hypertarget{jobs}{%
+\subsection{Jobs}\label{jobs}}
 
-This folder contains the job scripts used to submit a script/set of data as a job.
+This folder contains the batch job scripts used to submit a script/set of data as a job to the scheduler.
 
 \hypertarget{output}{%
 \subsection{Output}\label{output}}
 
-This is where the output of any projects will be stored. It can have subfolders to keep output organized.
+This is where the output of any analysis scripts will be stored.
 
 \hypertarget{utd-hpc-europa}{%
 \section{UTD HPC (Europa)}\label{utd-hpc-europa}}
