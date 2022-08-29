@@ -10,7 +10,7 @@ Communication is critical. Whether you pursue academia or industry, you will nee
 
 ## Lab Meetings
 
-Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. **All full-time staff, graduate students and anyone leading a project** will be expected to attend (unless cleared with Dr. Seaman in advance). ***For other lab members (e.g. some undergraduate RAs), attendance at lab meetings will only required at the first meeting of each month***.
+Regular lab meetings are essential for making sure that we move both current and future projects forward. They also help us function as a team. We will use lab meetings to discuss administrative and practical issues, solicit feedback on current analyses and code, discuss current literature, and practice conference and job talks. Our weekly lab meetings will run approximately 1-1.5 hours long. **All full-time staff, graduate students and anyone leading a project** will be expected to attend weekly lab meetings (unless cleared with Dr. Seaman in advance). ***For other lab members (e.g. some undergraduate RAs), attendance at lab meetings will be required at full, bi-weekly lab meetings***.
 
 During lab meetings, one or two presenters will be responsible for setting the agenda that day. The presenter/s will also be responsible for sharing any relevant materials (e.g. journal article) a couple of days in advance. If you're scheduled to present and need to cancel or postpone, please give the group 72 hours notice. **Everyone is expected to participate in lab meetings.** That means reading relevant material beforehand and if you are easily distracted by your computer or phone, put it away.
 
@@ -112,12 +112,14 @@ Our lab manager will maintain a lab calendar, associated with our lab email acco
 
 </center>
 
-I (Dr. Seaman) need your help to stay organized. If you need me to do somethng for you (e.g. review a pregistration, review code), please send me a **single message** on Slack with the following information:
+I (Dr. Seaman) need your help to stay organized. If you need me to do somethng for you (e.g. review a pregistration, review code), please create a task in Asana with following information:
 
-* a brief description of what you need (e.g. analysis review code for visDM project)
+* a meaningful title (e.g. review manuscript for Colleen)
+
+* a brief description of what you need (e.g. review the manipulation check on visDM project)
 
 * a deadline, ideally a week from now (e.g. your next one-on-one meeting with me)
 
-* attach the file/s you want me to review
+* a location of the file/s you want me to review (or attach document if not saved on Box/GitHub)
 
-I will respond when I see your message and add it to Asana. If you don't get a response from me in a day or so, please send another slack message. I typically focus on non-urgent lab-related materials on MWF during the academic year. Please do not send an email.
+I typically focus on non-urgent lab-related materials on MWF during the academic year. Please feel free to follow up on Slack; do not send an email.

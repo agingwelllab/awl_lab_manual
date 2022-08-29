@@ -39,14 +39,14 @@ Dallas, TX 75235
 
 The lab has several public-facing accounts that anyone can access:
 
-* Website: https://vitallongevity.utdallas.edu/seamanlab/
+* Website: https://agingwell.utdallas.edu/
 * GitHub: https://github.com/agingwelllab
 * OSF: https://osf.io/26jqs/  
 
 The lab also has sites that are only accessible to lab members:
 
-* CVL Lab Wiki: https://cvlwiki.utdallas.edu/doku.php?id=seamanlab:home
+* CVL Lab Wiki: https://confluence.utdallas.edu
 * Asana: https://app.asana.com
 * Slack: https://agingwelllab.slack.com
 
-![](images/Lab_photo_Summer2021.jpg){width=100%}
+![](images/Lab_photo_Sp22.jpg){width=100%}

@@ -42,13 +42,9 @@ If you are drafting a manuscript, congratulations! Scientific writing is differe
 
 As a lab, we will use the [Peele lab's checklist]( https://github.com/jpeelle/paperchecklist/blob/master/checklist.pdf) to prepare data sets for publication. 
 
-More to come soon!
-
 ### Conference Presentations
 
 If you are going to give a presentation (including posters and talks), please be prepared to give a practice presentation to the lab at least one week ahead of time. Not only will this help you feel comfortable with the presentation, it will give you time to implement any feedback. I care about practice presentations because a) presenting your work is a huge part of being successful in science and it's important that you practice those skills as often as possible, and b) you are going to be representing not only yourself but also the rest of the lab.  
-
-More to come soon!  
 
 ## Funding
 
